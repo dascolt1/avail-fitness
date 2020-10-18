@@ -1,0 +1,117 @@
+nav .navbar-nav li a{
+  color: black !important;
+  margin-right: 2em;
+  padding-top: 1.5em;
+  font-size: 1.2em;
+  padding-bottom: 1em;
+}
+
+html {
+	background-color: black !important;
+}
+
+ nav .navbar-brand {
+  	padding-top: 1.5em;
+  	font-size: 1.2em;
+  	padding-bottom: 1em;
+ }
+
+.navbar-brand {
+	color: black !important;
+}
+
+nav {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1em;
+}
+
+.main-content {
+  color: white;
+  margin: none;
+  padding: none;
+  background-color: black;
+  padding: 1em;
+  font-family: 'Montserrat', sans-serif;
+  max-width: 100vw;
+}
+
+.list {
+  padding-bottom: 4em;
+}
+
+.list-title {
+  padding-bottom: 2em;
+}
+
+.title {
+  padding-top: 2em;
+}
+
+.final {
+  padding-bottom: 3em;
+}
+
+.p-top {
+  padding-top: 2em;
+}
+
+.list li {
+  padding-top: 1em;
+  color: #B1AFAF;
+}
+
+.p {
+  line-height: 1.7em;
+}
+
+.red-span {
+    color: red;
+  }
+
+.footer {
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  color: white;
+  background-color: #252525;
+  font-size: 1em;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 5em;
+ }
+
+ .final {
+  text-align: center;
+ }
+
+ .footer h3 {
+  font-size: 1.3em;
+ }
+
+ @media only screen and (min-width: 768px) {
+  .p {
+    padding-bottom: 2em;
+    line-height: 2.1em;
+    padding-left: 10em;
+    padding-right: 10em;
+  }
+
+  .list-title {
+    padding-left: 4em;
+  }
+  ul {
+    list-style-position: inside;
+  }
+
+  .list {
+    padding-left: 4em;
+  }
+  .title {
+    padding-top: 3em;
+    padding-left: 3em;
+  }
+
+  .final {
+    padding-left: 10em;
+    padding-right: 10em;
+  }
+}
