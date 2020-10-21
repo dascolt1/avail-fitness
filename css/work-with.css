@@ -63,6 +63,24 @@ html {
 	padding-bottom: 2em;
 }
 
+.right-row-p {
+	font-size: 1.4em;
+	color: #B1AFAF;
+	padding-bottom: .7em;
+}
+
+.contact {
+	font-size: 1.4em;
+	color: #B1AFAF;
+}
+
+.end-right {
+	font-size: 1.4em;
+	color: #B1AFAF;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
 .info a {
 	font-size: .8em;
 	color: red;
@@ -86,8 +104,26 @@ html {
 	padding-bottom: .4em;
 }
 
+.row {
+  	padding-left: 3em;
+  	padding-right: 1em;
+  	max-width: 100vw;
+  }
+
 .main-title {
 	font-size: 1.8em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+.img {
+	padding-bottom: 2em;
+}
+
+.right-row-title {
+	font-size: 3em;
+	color: red;
+	padding-bottom: .2em;
 }
 
 .footer {
