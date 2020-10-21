@@ -52,6 +52,12 @@ nav {
 	margin-right: -2em;
 }
 
+.img {
+    height: 100px;
+    width: 100px;
+    margin-top: 1em;
+  }
+
 .main {
 	padding-top: 2em;
 	padding-bottom: 8em;
@@ -104,6 +110,7 @@ nav {
  	padding-top: 2em;
  	text-align: center;
  }
+ 
 
  .footer h3 {
  	font-size: 1.3em;

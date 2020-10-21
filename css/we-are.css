@@ -42,7 +42,7 @@ nav {
   font-family: 'Montserrat', sans-serif;
 }
 
-.img {
+.imgg {
   width: 800px;
   height: 300px;
 }
@@ -77,6 +77,12 @@ nav {
 .red-span {
   color: red;
 }
+
+.img {
+    height: 100px;
+    width: 100px;
+    margin-top: 1em;
+  }
 
 .footer {
   text-align: center;
