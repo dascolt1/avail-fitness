@@ -38,6 +38,22 @@ nav .navbar-brand {
 	padding-top: 2em;
 }
 
+.footer-contact {
+	color: #B1AFAF;
+	text-decoration: none;
+}
+
+.footer-contact:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.footer p {
+	padding-top: 1em;
+	font-size: 1.2em;
+	
+}
+
 .p {
 	padding-bottom: 2em;
 	line-height: 1.7em;

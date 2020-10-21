@@ -47,6 +47,22 @@ nav {
   height: 300px;
 }
 
+.footer-contact {
+  color: #B1AFAF;
+  text-decoration: none;
+}
+
+.footer-contact:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.footer p {
+  padding-top: 1em;
+  font-size: 1.2em;
+  
+}
+
 .img-center {
   text-align: center;
   padding-top: 3em;
@@ -98,3 +114,14 @@ nav {
  .footer h3 {
   font-size: 1.3em;
  }
+
+ @media only screen and (min-width: 768px) {
+ .main-content {
+  color: white;
+  background-color: black !important;
+  padding: 3em;
+  font-family: 'Montserrat', sans-serif !important;
+  max-width: 100vw;
+  min-height: calc(100vh - 3em);
+}
+}

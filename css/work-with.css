@@ -75,6 +75,22 @@ html {
 	padding-bottom: .7em;
 }
 
+.footer-contact {
+	color: #B1AFAF;
+	text-decoration: none;
+}
+
+.footer-contact:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.footer p {
+	padding-top: 1em;
+	font-size: 1.2em;
+	
+}
+
 .contact {
 	font-size: 1.4em;
 	color: #B1AFAF;

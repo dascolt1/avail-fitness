@@ -32,6 +32,22 @@ html {
 	font-family: 'Montserrat', sans-serif;
 }
 
+.footer-contact {
+	color: #B1AFAF;
+	text-decoration: none;
+}
+
+.footer-contact:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.footer p {
+	padding-top: 1em;
+	font-size: 1.2em;
+	
+}
+
 .main-content {
 	color: white;
 	margin: none;
