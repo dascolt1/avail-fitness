@@ -79,6 +79,10 @@ nav {
 	color: red;
 }
 
+.contact:hover {
+	color: red;
+}
+
 nav .navbar-nav li a{
   color: black !important;
   margin-right: 2em;
