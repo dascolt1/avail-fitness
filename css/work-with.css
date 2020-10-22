@@ -98,7 +98,7 @@ html {
 
 .end-right {
 	font-size: 1.4em;
-	color: white;
+	color: white !important;
 	padding-bottom: 1em;
 	padding-top: 1em;
 }
