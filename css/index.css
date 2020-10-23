@@ -69,6 +69,12 @@ nav {
 }
 
 .img {
+    height: 100px;
+    width: 100px;
+    margin-top: 1em;
+  }
+
+  .imgg {
     height: 400px;
     width: 400px;
     margin-top: 1em;
