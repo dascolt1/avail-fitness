@@ -91,7 +91,7 @@ nav {
 .main-title {
 	padding-top: 2em;
 	padding-bottom: 1em;
-	margin-left: 1.5em;
+	margin-left: .5em;
 	font-size: 1.7em;
 }
 
@@ -131,3 +131,12 @@ nav {
  .footer h3 {
  	font-size: 1.3em;
  }
+
+ @media only screen and (min-width: 768px) {
+ .main-title {
+	padding-top: 2em;
+	padding-bottom: 1em;
+	margin-left: 1.5em;
+	font-size: 1.7em;
+}
+}
