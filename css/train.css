@@ -116,6 +116,7 @@ nav .navbar-nav li a{
  	background-color: #252525;
  	font-size: 1em;
  	font-family: 'Montserrat', sans-serif;
+ 	max-width: 100vw;
  }
 
  .footer h3 {
