@@ -111,6 +111,7 @@ html {
 
 .info a:hover {
 	color: red;
+	text-decoration: none;
 }
 
 .imgg {
@@ -189,6 +190,11 @@ nav {
 	padding-left: 3em;
 	padding-top: 2em;
   }
+
+  .info a:hover {
+	color: red;
+	text-decoration: underline;
+}
 
   .spacing {
   	padding-top: 2em;
